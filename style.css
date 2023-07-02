@@ -1,0 +1,32 @@
+body{
+    background-image:url(grad.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    color:rgb(248, 237, 21);
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pre{
+background-color:aliceblue;
+color:darkblue;
+border-radius: 4px;
+font-size:17px;
+font-family:cursive;
+}
+
+#camera, #result{
+border:2px dashed black;
+width:350px;
+height:300px;
+}
+
+.vertical{
+width:2px;
+height: 20px;
+background-color:rgb(242, 236, 236);
+}
+
